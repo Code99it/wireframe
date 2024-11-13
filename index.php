@@ -41,7 +41,16 @@
             </header>
         </section>
         <section class="content">
-            <span>Content</span>
+            <span>Content 1</span>
+        </section>
+        <section class="content">
+            <span>Content 2</span>
+        </section>
+        <section class="content">
+            <span>Content 3</span>
+        </section>
+        <section class="content">
+            <span>Content 4</span>
         </section>
         <section class="page_footer">
             <footer></footer>
