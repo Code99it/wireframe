@@ -1,0 +1,216 @@
+:root {
+    font-size: 12px;
+    --animationDuration: 0.5s;
+    --animationEffect: ease-in-out;
+    --menuBackground: #fafaffe8;
+}
+
+*, ::before, ::after {
+    font-family: sans-serif;
+    margin: 0;
+}
+ 
+/*
+ * Header for mobile devices 
+ * *****************************************************************************
+ */
+
+header.mobile {
+    align-items: center;
+}
+
+header.mobile .logo {
+    align-items: center;
+    background: linear-gradient(45deg, #c0c0c0, #e0e0e0);
+    border-radius: 16px;
+    color: #909090;
+    display: flex;
+    height: 32px;
+    justify-content: center;
+    margin-left: 22px;
+    width: 32px;
+}
+
+header.mobile .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 17px;
+    width: 27px;
+}
+
+header.mobile .hamburger div {
+    background-color: #ffffff80;
+    border-radius: 3px;
+    min-height: 3px;
+}
+
+header.mobile_menu {
+    position: fixed;
+    top: 8px;
+    left: 8px;
+ 
+    background-color: var(--menuBackground);
+    border-radius: 4px;
+    box-shadow: 10px 20px 20px 5px #00000060;
+    display: flex;
+    padding: 20px 24px;
+    flex-direction: column;
+    width: 60vw;
+}
+
+header.mobile_menu .title {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+header.mobile_menu .title button {
+    background: none;
+    border: none;
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+header.mobile_menu nav {
+    display: flex;
+    flex-direction: column;
+}
+
+/*
+ * Header for desktops 
+ * *****************************************************************************
+ */
+
+header.desktop {
+    align-items: center;
+    justify-content: space-between;
+}
+
+header.desktop .logo {
+    align-items: center;
+    background: linear-gradient(45deg, #c0c0c0, #e0e0e0);
+    border-radius: 24px;
+    color: #909090;
+    display: flex;
+    height: 48px;
+    justify-content: center;
+    width: 48px;
+}
+
+header.desktop img.icon {
+    aspect-ratio: auto;
+    height: 20px;
+}
+
+/* first section at the page */
+.above_the_fold {
+    background-image: url("../img/s1.jpg");
+    background-size: cover;
+    min-height: 50vh;
+}
+
+/* entire page */
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+/*
+ * Animations 
+ * *****************************************************************************
+ */
+
+.slide_out_to_the_left {
+    animation: slideOutToTheLeft var(--animationDuration) var(--animationEffect) forwards;
+} @keyframes slideOutToTheLeft {
+    0% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+    100% {
+        transform: translateX(calc(-100vw - 1px));
+        opacity: 0;
+    }
+}
+
+.slide_in_from_the_left {
+    animation: slideInFromTheLeft var(--animationDuration) var(--animationEffect) forwards;
+} @keyframes slideInFromTheLeft {
+    0% {
+        transform: translateX(calc(-100vw - 1px));
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+.out_of_viewport {
+    transform: translateX(calc(-100vw - 1px));
+    opacity: 0;
+}
+
+/*
+ * Media queries for mobile, tablet, desktop 
+ * *****************************************************************************
+ */
+
+/* Easteregg for tiny screens */
+@media (min-width: 0px) and (max-width: 199px) {
+    .above_the_fold {
+        padding: 0;
+    }
+    .wrapper {
+        display: none;
+    }
+    .easteregg {
+        display: flex;
+    }
+    header.desktop {
+        display: none;
+    }
+    header.mobile {
+        display: none;
+    }
+}
+
+@media (min-width: 200px) and (max-width: 599px) {
+    .above_the_fold {
+        padding: 16px 24px;
+    }
+    .wrapper {
+        display: flex;
+    }
+    .easteregg {
+        display: none;
+    }
+    header.desktop {
+        display: none;
+    }
+    header.mobile {
+        display: flex;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 8192px) {
+    .above_the_fold {
+        padding: 32px;
+    }
+    .wrapper {
+        display: flex;
+    }
+    .easteregg {
+        display: none;
+    }
+    header.desktop {
+        display: flex;
+    }
+    header.mobile {
+        display: none;
+    }
+}

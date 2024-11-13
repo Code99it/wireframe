@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"get",
+				"getRandomHexColor"
+			],
+			[
+				"rando",
+				"randomPercentY"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"file_",
+				"file_put_contents()"
+			],
+			[
+				"getenv",
+				"getenv()"
+			],
+			[
+				"gete",
+				"getenv()"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"jsn",
+				"json_decode()"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"grid",
+				"grid-template-rows"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"user",
+				"userPass"
+			],
+			[
+				"d",
+				"dbName"
+			],
+			[
+				"__",
+				"__toString"
+			],
+			[
+				"logMs",
+				"logMsgType"
+			],
+			[
+				"log",
+				"logMsgType"
+			],
+			[
+				"param",
+				"param_key"
+			],
+			[
+				"msg",
+				"msg_txt"
+			],
+			[
+				"is_in",
+				"is_int()"
+			],
+			[
+				"usr",
+				"db_usr_pass"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"--fo",
+				"--fontSecondary"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/cw/github/repositories/code99/assets/css/global.css",
+		"/home/cw/github/repositories/code99/index.php",
+		"/home/cw/github/repositories/code99/callback.php",
+		"/home/cw/github/repositories/code99/assets/inc/header.php",
+		"/home/cw/github/repositories/code99/erleben.php",
+		"/home/cw/github/repositories/code99/assets/css/erleben.css",
+		"/home/cw/github/repositories/code99/config.ini",
+		"/home/cw/github/repositories/code99/assets/inc/html_head_meta.php",
+		"/home/cw/github/repositories/code99/privacypolicy.php",
+		"/home/cw/github/repositories/code99/imprint.php",
+		"/home/cw/github/repositories/code99/agb.php",
+		"/home/cw/github/repositories/code99/assets/php/read_config.php",
+		"/home/cw/github/repositories/code99/inc_header.php",
+		"/home/cw/github/repositories/code99/inc_footer.php",
+		"/home/cw/github/repositories/code99/assets/css/agb.css",
+		"/home/cw/github/repositories/code99/assets/css/imprint.css",
+		"/home/cw/github/repositories/code99/assets/css/privacypolicy.css",
+		"/home/cw/github/repositories/code99/.htaccess",
+		"/home/cw/github/repositories/city-guide-web-app/datenschutz.html",
+		"/home/cw/github/repositories/city-guide-web-app/grid.php",
+		"/home/cw/github/repositories/city-guide-web-app/assets/css/global.css",
+		"/home/cw/github/repositories/city-guide-web-app/index.php",
+		"/home/cw/github/repositories/city-guide-web-app/assets/css/guide_card.css",
+		"/home/cw/github/repositories/tetris-code99/styles.css",
+		"/home/cw/github/repositories/tetris-code99/index.html",
+		"/home/cw/github/repositories/city-guide-web-app/assets/php/database.php",
+		"/home/cw/github/repositories/city-guide-web-app/assets/php/api.php",
+		"/home/cw/github/repositories/city-guide-web-app/assets/js/api.js",
+		"/home/cw/github/repositories/city-guide-web-app/assets/php/log.php",
+		"/home/cw/github/repositories/city-guide-web-app/.htaccess",
+		"/home/cw/github/repositories/city-guide-web-app/log/messages.log",
+		"/home/cw/github/repositories/city-guide-web-app/.gitignore",
+		"/home/cw/github/repositories/city-guide-web-app/assets/js/config.js",
+		"/home/cw/github/repositories/city-guide-web-app/assets/js/database.php",
+		"/home/cw/github/repositories/city-guide-web-app/resolve.php",
+		"/home/cw/github/repositories/city-guide-web-app/assets/css/ajax.js",
+		"/home/cw/github/repositories/city-guide-web-app/assets/css/config.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/tests/choose_date.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/Calendar.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/api/Fetcher.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/api/Ajax.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/api/jsFetcher.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/sql.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/myFunctions.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/Database.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/logs/messages.log",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/Logger.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/settings.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/DEFINES.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/Calendar.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/calendarFunctions.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/DatabaseConnection.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/API.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/js/config.js",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/api/returnAllGuidesAvaiableAtGivenDate.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/.htaccess",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/tests/start_here.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/errorReporting.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/Calendar.old.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/css/booking_calendar.css",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/databaseConnection.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/CheckId.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/assets/php/logging.php",
+		"/var/www/html/index.html",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/index.php",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/README.md",
+		"/home/cw/github/repositories/passauer-stadtfuehrer-ev/pa_stf_ev.sublime-project",
+		"/home/cw/github/repositories/pa_stf_ev/tests/choose_date.php",
+		"/home/cw/github/repositories/pa_stf_ev/assets/php/Calendar.php",
+		"/home/cw/github/repositories/pa_stf_ev/README.md",
+		"/home/cw/github/repositories/pa_stf_ev/assets/php/DEFINES.php",
+		"/home/cw/github/repositories/pa_stf_ev/assets/php/logging.php",
+		"/home/cw/github/repositories/pa_stf_ev/assets/php/CheckId.php",
+		"/home/cw/github/repositories/pa_stf_ev/assets/php/databaseConnection.php",
+		"/home/cw/github/repositories/pa_stf_ev/.gitignore",
+		"/home/cw/github/repositories/pa_stf_ev/pa_stf_ev.sublime-project",
+		"/home/cw/github/repositories/pa_stf_ev/.htaccess",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/choose_date.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/templates/tpl_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/templates/tpl_classes.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/settings.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/errorReporting.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/DEFINES.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/logging.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/start_here.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/.htaccess",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/databaseConnection.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/CheckId.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/logs/messages.log",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/Calendar.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/css/booking_calendar.css",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/db_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/check_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/global_defines.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/calendar_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/calendar_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/guide_profile.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/sanitize_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/index.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/php/file_functions.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/tests.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/tests/messages.log",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/index.php",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/css/global.css",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/.gitignore",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/src/style_guide.html",
+		"/home/cw/github/repositories/arge_stadtfuehrungen_pa/assets/style_guide.html",
+		"/home/cw/github/repositories/arge_stadtfuehrunge_pa/.gitignore",
+		"/home/cw/github/repositories/arge_stadtfuehrunge_pa/.htaccess",
+		"/home/cw/kernel/linux-6.9.9/fs/timerfd.c",
+		"/home/cw/kernel/linux-6.9.9/fs/open.c",
+		"/home/cw/kernel/linux-6.9.9/fs/direct-io.c",
+		"/home/cw/kernel/linux-6.9.9/fs/read_write.c",
+		"/home/cw/kernel/linux-6.9.9/kernel/pid.c",
+		"/home/cw/kernel/linux-6.9.9/kernel/hung_task.c",
+		"/home/cw/kernel/linux-6.9.9/kernel/groups.c",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/css/tour.css",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/tour.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/php/functions.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/index.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/css/header.css",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/php/footer.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/css/footer.css",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/datenschutzerklaerung.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/impressum.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/assets/php/header.php",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/.gitignore",
+		"/home/cw/github/repositories/arge-stadtfuehrungen-passau/templates/page.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"./assets/inc/inc_",
+			"<?php require_once(\"./inc_footer.php\"); ?>",
+			"<?php require_once(\"./inc_header.php\"); ?>",
+			"imprint",
+			"TMG",
+			"privacypolicy",
+			"h1",
+			"h2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"./assets/inc/",
+			"<?php require_once(\"./assets/inc/inc_footer.php\"); ?>",
+			"<?php require_once(\"./assets/inc/inc_header.php\"); ?>",
+			"agb",
+			"DDG",
+			"imprint",
+			"h3",
+			"h4"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wireframe.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
